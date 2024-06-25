@@ -1,4 +1,4 @@
-<h1 align="center">Flagify :3</h1>
+<h1 align="center">Slaagify :3</h1>
 
 <p align="center">
   <img src="example/input_preset.jpg" alt="Image 1" style="margin-right: 10px; width: 300px; height: auto;" />
